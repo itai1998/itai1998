@@ -24,6 +24,7 @@ I am a student developer at Enterprise Information Systems (EIS) department at B
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
   <a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/107719287/228647498-c93a0016-865b-4948-81a3-58df6552e24b.png" width="36" height="36" alt="C++" /></a>
     <a href="https://www.snowflake.com/en/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/107719287/228649203-2e752edb-aac4-474c-b2d7-89a80d6b463c.PNG" width="36" height="36" alt="Snowflake" /></a>
+      <a href="https://www.mendix.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/107719287/228650151-d21b738e-e777-476f-920a-2d9df66bc7db.PNG" width="36" height="36" alt="Snowflake" /></a>
 </p>
 
 
