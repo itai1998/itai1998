@@ -9,7 +9,7 @@ I am a student developer at Enterprise Information Systems (EIS) department at B
 * 🌍  I'm based in Hawaii
 * ✉️  You can contact me at [smes93434@gmail.com](mailto:smes93434@gmail.com)
 * 🖥️  See my portfolio at [Personal Website](https://smes93434.wixsite.com/itai)
-* 🧠  I'm learning Android Studio
+* 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
