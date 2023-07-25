@@ -26,6 +26,7 @@ I am a student developer at Enterprise Information Systems (EIS) department at B
     <a href="https://www.snowflake.com/en/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/107719287/228649203-2e752edb-aac4-474c-b2d7-89a80d6b463c.PNG" width="36" height="36" alt="Snowflake" /></a>
       <a href="https://www.mendix.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/107719287/228650151-d21b738e-e777-476f-920a-2d9df66bc7db.PNG" width="36" height="36" alt="Snowflake" /></a>
    <a href="https://developer.android.com/studio?gclid=Cj0KCQjww4-hBhCtARIsAC9gR3a15omZUdKGsCjcgR_ilTeDWs9jtDUytBofx7qWD-Uyev0Yap0xyIkaAsE5EALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/107719287/228651617-93d0e224-8547-47ad-bed9-6027eaf80f8e.PNG" width="36" height="36" alt="Snowflake" /></a>
+  <a href="https://react.dev/"><img src="https://github.com/itai1998/itai1998/assets/107719287/5bba1abd-95b2-4bc5-8ef9-54fb4e2d563c" width="36" height="36" alt="React JS" /></a>
 </p>
 
 
